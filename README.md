@@ -1,9 +1,7 @@
 
 ![Clannad (2)](https://github.com/kemomi/TokyoHolyLandTour/assets/76780905/fb83685f-026b-446f-8467-0943ef361b5b)
 
-# TokyoHolyLandTour
-
-东京圣地巡礼/せいち じゅんれい
+# TokyoHolyLandTour/东京圣地巡礼/せいち じゅんれい
 
 '''圣地巡礼是指ACGN爱好者根据自己喜欢的作品，造访故事背景区域，该场所则被称为圣地。这个名词是从朝圣而来的，原先是指宗教上寻觅灵性意义的过程'''
 
@@ -201,6 +199,8 @@ c087)
 ![67ba18d5ad6eddc44434cc0033dbb6fd506633c3](https://github.com/kemomi/TokyoHolyLandTour/assets/76780905/20b560de-0b7a-432f-bbc6-f6b12b9f329d)
 ![c0a28913632762d0c7991644aaec08fa503dc670](https://github.com/kemomi/TokyoHolyLandTour/assets/76780905/c9a7074c-b202-4e64-a986-b1d663475ecf)
 ![0c760fd7912397ddc5b83fff5382b2b7d2a287d2](https://github.com/kemomi/TokyoHolyLandTour/assets/76780905/b3436213-0a7e-42a9-9ef8-0f8e06f9851c)
+
+### 
 
 
 
