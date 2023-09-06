@@ -1,9 +1,11 @@
-![1b400ff3d7ca7bcb657bacd4b4096b63f724a893](https://github.com/kemomi/TokyoHolyLandTour/assets/76780905/31bbc181-8db5-47a1-860d-ec9a6353d48f)# TokyoHolyLandTour
+
+![Clannad (2)](https://github.com/kemomi/TokyoHolyLandTour/assets/76780905/fb83685f-026b-446f-8467-0943ef361b5b)
+
+# TokyoHolyLandTour
 
 东京圣地巡礼/せいち じゅんれい
-'''
-圣地巡礼是指ACGN爱好者根据自己喜欢的作品，造访故事背景区域，该场所则被称为圣地。这个名词是从朝圣而来的，原先是指宗教上寻觅灵性意义的过程。
-'''
+
+'''圣地巡礼是指ACGN爱好者根据自己喜欢的作品，造访故事背景区域，该场所则被称为圣地。这个名词是从朝圣而来的，原先是指宗教上寻觅灵性意义的过程'''
 
 ## Clannad圣地巡礼（东京篇）
 
@@ -19,7 +21,10 @@
 
 好了，下面为大家送这次巡礼的攻略
 
-讲讲乘换案内的使用方法，使用谷歌地图(https://www.google.com/maps)输入起点和终点，他会显示最省时间的路线，选择换乘少的路线。
+讲讲乘换案内的使用方法，使用谷歌地图(https://www.google.com/maps)
+输入起点和终点，他会显示最省时间的路线，选择换乘少的路线。
+![504f223fb80e7beceb827d1a252eb9389a506bbb](https://github.com/kemomi/TokyoHolyLandTour/assets/76780905/069d831e-d205-4345-843e-e0e2581b6ecf)
+
 
 ### 智代隧道
 
